@@ -15,12 +15,6 @@ Name: VagrantVMs_default_1551088078848_94350
 Typ: Linux (Ubuntu (64-bit))
 Speicherort: C:/Users/kevin/M300/vagrant/user
 
-web (Vagrant VM):
-+ IP: 10.0.2.15
-
-Database (Vagrant VM):
-+ IP: i
-
 ### Vagrant
 Eingerichtet und über Git-Client verwendet
 
