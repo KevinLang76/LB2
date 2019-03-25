@@ -107,7 +107,7 @@ failed
 
 ##K 5 (5p.)
 ### Vergleich Vorwissen - Wissenszuwachs
-Ich weiss einigermassen was Vagrant ist, für was es zu gebrauchen ist und wie man es verwenden sollte. Mit Linux habe ich immernoch mühe.
+Ich weiss einigermassen was Vagrant ist, für was es zu gebrauchen ist und wie man es verwenden sollte. Mit Linux habe ich immer noch sehr viel mühe.
 
 ### Reflexion
 Während der ganzen LB hatte ich nie wirklich ahnung was ich überhaupt mache und war somit eigentlich immer recht verloren. Anleitungen habe ich immer auf irgend eine weise falsch befolgt. Ich habe versucht von Zuhause aus meine Fehler von während den Lektionen zu beheben, aber auch dies resultierte nur in weiteren für mich nicht nachvollziegbaren Problemen. Schlussendlich war all die investierte Zeit für nichts.
