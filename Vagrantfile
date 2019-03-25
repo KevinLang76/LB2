@@ -64,5 +64,5 @@ web.vm.provision "shell", inline: <<-SHELL
 	sudo apt-get install ufw -y
 	sudo ufw -f enable
 	sudo ufw allow from "192.168.55.100" to any port 3306
-
+SHELL
  end
