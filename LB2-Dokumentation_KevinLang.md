@@ -96,16 +96,16 @@ Status: active
 |[ 4]| 3306          |             ALLOW IN  |  192.168.80.1
 |[ 5] |80/tcp (v6)  |              ALLOW IN  |  Anywhere (v6)
 
-###Reverse-Proxy eingerichtet
+### Reverse-Proxy eingerichtet
 
-###Zugang mit SSH-Tunnel abgesichert
+### Zugang mit SSH-Tunnel abgesichert
 
-###Projekt mit Git und Mark Down dokumentiert
+### Projekt mit Git und Mark Down dokumentiert
 ^^MarkDown
 
-##K5 (5p.)
-###Vergleich Vorwissen - Wissenszuwachs
-###Reflexion
+##K 5 (5p.)
+### Vergleich Vorwissen - Wissenszuwachs
+### Reflexion
 
 
 
