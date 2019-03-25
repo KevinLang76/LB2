@@ -99,7 +99,7 @@ failed
 ### Projekt mit Git und Mark Down dokumentiert
 ^^MarkDown
 
-##K 5 (5p.)
+## K 5 (5p.)
 ### Vergleich Vorwissen - Wissenszuwachs
 Ich weiss einigermassen was Vagrant ist, für was es zu gebrauchen ist und wie man es verwenden sollte. Mit Linux habe ich immer noch sehr viel mühe.
 
