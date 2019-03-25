@@ -73,12 +73,12 @@ siehe K1 - VirtualBox
 Name: M300.1
 Typ: Linux (Ubuntu (64-bit))
 
-###Projekt mit Git und Mark Down dokumentiert
+### Projekt mit Git und Mark Down dokumentiert
 ^^MarkDown
 
 ## K4 Sicherheitsaspekte sind implementiert (5p.)
 Bemerkung: Weil am 24.3 plötzlich keine Verbindung zu den VM bestanden, wurde einiges am 25.3 neu erstellt. Mögliche Ungenauigkeiten der Doku können daraus bestanden sein.
-###Firewall eingerichtet inkl. Rules
+### Firewall eingerichtet inkl. Rules
 vagrant@db01:~$ sudo ufw status
 Status: active
 
